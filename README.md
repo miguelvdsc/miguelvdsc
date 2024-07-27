@@ -62,8 +62,4 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelvdsc&show_icons=true&locale=en&layout=compact" alt="miguelvdsc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelvdsc&show_icons=true&locale=en" alt="miguelvdsc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miguelvdsc&" alt="miguelvdsc" /></p>
