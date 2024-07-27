@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋, I'm Miguel</h1>
 <p align="left">
 </p>
+<h3 align="left">I recently received my degree in computer engineering and have a solid background in systems analysis, hardware integration, and software development. I have practical knowledge with project management, and programming. I am enthusiastic about using technology to create novel solutions, and I can't wait to provide value to exciting projects and further my career.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
