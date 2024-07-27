@@ -59,7 +59,8 @@
         <img align="left" alt="scikit_learn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="padding-right:10px;" />
     </a>
 </p>
-
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguelvdsc&show_icons=true&locale=en&layout=compact" alt="miguelvdsc" /></p>
 
